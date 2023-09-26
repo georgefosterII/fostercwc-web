@@ -8,7 +8,7 @@ body {
 
 h1,
 h2 {
-    color: darkred;
+    color: #CBB26A;
 }
 
 h3, 
@@ -29,7 +29,7 @@ main {
 }
 
 nav {
-    background-color: beige;
+    background-color: #113F61
     padding: 10px;
 }
 
@@ -54,13 +54,13 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
+    width: 75%;
     height: auto;
-    background-color: white;
+    background-color: #113F61;
 }
 
 #banner img {
-    width: 100%;
+    width: 80%;
     height: auto;
 }
 
@@ -89,7 +89,7 @@ th {
 footer{
   width:100%;
   padding: 25px;
-  background-color: green
+  background-color: #113F61
 }
 
 footer p{
