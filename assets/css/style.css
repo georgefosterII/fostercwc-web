@@ -14,7 +14,7 @@ h2 {
 h3, 
 p,
 li {
-    color: green;
+    color: #CBB26A;
   text-align: left;
 }
 
@@ -30,7 +30,7 @@ main {
 
 nav {
     background-color: #113F61
-    padding: 10px;
+    
 }
 
 nav ul {
@@ -40,21 +40,23 @@ nav ul {
 
 nav li {
     display: inline;
+    margin: 50px;
 }
 
 nav a {
-    text-decoration: none;
+    text-decoration-line: double;
     font-size: 1.6em;
-    color: green;
+    color: #CBB26A;
     margin-right: 25px;
+    
 }
 
 nav a:hover {
-    color: darkred;
+    color: #b7c5cf;
 }
 
 #banner {
-    width: 75%;
+    width: 50%;
     height: auto;
     background-color: #113F61;
 }
@@ -97,10 +99,17 @@ footer p{
   Text-align: center;
 }
 
-.highlight{color: blue}
+.highlight{color: #b7c5cf}
 
 #holiday {
   width: 100%;
   height: auto;
   background-color: Yellow
 }
+
+ hr {
+    height: 4px;
+    background-color: #CBB26A;
+    border: none;
+        }
+    
