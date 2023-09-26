@@ -16,6 +16,7 @@ p,
 li {
     color: #CBB26A;
   text-align: left;
+  font-size: 18px;
 }
 
 img {
@@ -95,7 +96,7 @@ footer{
 }
 
 footer p{
-  color: darkred;
+  color:black;
   Text-align: center;
 }
 
