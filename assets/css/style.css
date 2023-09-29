@@ -52,6 +52,10 @@ a:hover {
     color: #b7c5cf;
 }
 
+a:visited {
+    color: #b7c5cf;
+}
+
 nav a {
     text-decoration-line: double;
     font-size: 1.6em;
@@ -62,6 +66,10 @@ nav a {
 
 nav a:hover {
     color: #b7c5cf;
+}
+
+nav a:visited {
+    color:#8c9985
 }
 
 #banner {
