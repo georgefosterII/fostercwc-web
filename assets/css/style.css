@@ -48,6 +48,10 @@ a {
     color:#CBB26A;
 }
 
+href {
+    color: #CBB26A; 
+}
+
 a:hover {
     color: #b7c5cf;
 }
